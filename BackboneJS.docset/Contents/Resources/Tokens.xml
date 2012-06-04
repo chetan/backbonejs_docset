@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+<File path="html/index.html">
+<Token><TokenIdentifier>//apple_ref/cpp/cat/01 Backbone.js</TokenIdentifier><Anchor>logo</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/02 Introduction</TokenIdentifier><Anchor>introduction</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/03 Upgrading</TokenIdentifier><Anchor>upgrading</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/04 Events</TokenIdentifier><Anchor>Events</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/05 Model</TokenIdentifier><Anchor>Model</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/06 Collection</TokenIdentifier><Anchor>Collection</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/07 Router</TokenIdentifier><Anchor>Router</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/08 History</TokenIdentifier><Anchor>History</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/09 Sync</TokenIdentifier><Anchor>Sync</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/10 View</TokenIdentifier><Anchor>View</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/11 Utility</TokenIdentifier><Anchor>Utility</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/12 Examples</TokenIdentifier><Anchor>examples</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/13 Faq</TokenIdentifier><Anchor>faq</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/cat/14 Changelog</TokenIdentifier><Anchor>changelog</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Events.on</TokenIdentifier><Anchor>Events-on</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Events.off</TokenIdentifier><Anchor>Events-off</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Events.trigger</TokenIdentifier><Anchor>Events-trigger</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/Events</TokenIdentifier><Anchor>Events</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/Events.on</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Events.off</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Events.trigger</TokenIdentifier>
+</RelatedTokens>
+</Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.extend</TokenIdentifier><Anchor>Model-extend</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.initialize</TokenIdentifier><Anchor>Model-constructor</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.get</TokenIdentifier><Anchor>Model-get</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.set</TokenIdentifier><Anchor>Model-set</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.escape</TokenIdentifier><Anchor>Model-escape</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.has</TokenIdentifier><Anchor>Model-has</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.unset</TokenIdentifier><Anchor>Model-unset</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.clear</TokenIdentifier><Anchor>Model-clear</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.id</TokenIdentifier><Anchor>Model-id</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.idAttribute</TokenIdentifier><Anchor>Model-idAttribute</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.cid</TokenIdentifier><Anchor>Model-cid</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.attributes</TokenIdentifier><Anchor>Model-attributes</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.changed</TokenIdentifier><Anchor>Model-changed</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.defaults</TokenIdentifier><Anchor>Model-defaults</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.toJSON</TokenIdentifier><Anchor>Model-toJSON</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.fetch</TokenIdentifier><Anchor>Model-fetch</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.save</TokenIdentifier><Anchor>Model-save</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.destroy</TokenIdentifier><Anchor>Model-destroy</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.validate</TokenIdentifier><Anchor>Model-validate</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.isValid</TokenIdentifier><Anchor>Model-isValid</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.url</TokenIdentifier><Anchor>Model-url</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.urlRoot</TokenIdentifier><Anchor>Model-urlRoot</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.parse</TokenIdentifier><Anchor>Model-parse</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.clone</TokenIdentifier><Anchor>Model-clone</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.isNew</TokenIdentifier><Anchor>Model-isNew</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.change</TokenIdentifier><Anchor>Model-change</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.hasChanged</TokenIdentifier><Anchor>Model-hasChanged</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.changedAttributes</TokenIdentifier><Anchor>Model-changedAttributes</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.previous</TokenIdentifier><Anchor>Model-previous</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Model.previousAttributes</TokenIdentifier><Anchor>Model-previousAttributes</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/Model</TokenIdentifier><Anchor>Model</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.extend</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.initialize</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.get</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.set</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.escape</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.has</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.unset</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.clear</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.id</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.idAttribute</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.cid</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.attributes</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.changed</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.defaults</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.toJSON</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.fetch</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.save</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.destroy</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.validate</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.isValid</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.url</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.urlRoot</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.parse</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.clone</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.isNew</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.change</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.hasChanged</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.changedAttributes</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.previous</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Model.previousAttributes</TokenIdentifier>
+</RelatedTokens>
+</Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.extend</TokenIdentifier><Anchor>Collection-extend</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.model</TokenIdentifier><Anchor>Collection-model</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.initialize</TokenIdentifier><Anchor>Collection-constructor</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.models</TokenIdentifier><Anchor>Collection-models</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.toJSON</TokenIdentifier><Anchor>Collection-toJSON</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.<b>Underscore Methods (28)</b></TokenIdentifier><Anchor>Collection-Underscore-Methods</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.add</TokenIdentifier><Anchor>Collection-add</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.remove</TokenIdentifier><Anchor>Collection-remove</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.get</TokenIdentifier><Anchor>Collection-get</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.getByCid</TokenIdentifier><Anchor>Collection-getByCid</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.at</TokenIdentifier><Anchor>Collection-at</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.push</TokenIdentifier><Anchor>Collection-push</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.pop</TokenIdentifier><Anchor>Collection-pop</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.unshift</TokenIdentifier><Anchor>Collection-unshift</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.shift</TokenIdentifier><Anchor>Collection-shift</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.length</TokenIdentifier><Anchor>Collection-length</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.comparator</TokenIdentifier><Anchor>Collection-comparator</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.sort</TokenIdentifier><Anchor>Collection-sort</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.pluck</TokenIdentifier><Anchor>Collection-pluck</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.where</TokenIdentifier><Anchor>Collection-where</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.url</TokenIdentifier><Anchor>Collection-url</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.parse</TokenIdentifier><Anchor>Collection-parse</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.clone</TokenIdentifier><Anchor>Collection-clone</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.fetch</TokenIdentifier><Anchor>Collection-fetch</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.reset</TokenIdentifier><Anchor>Collection-reset</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Collection.create</TokenIdentifier><Anchor>Collection-create</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/Collection</TokenIdentifier><Anchor>Collection</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.extend</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.model</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.initialize</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.models</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.toJSON</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.<b>Underscore Methods (28)</b></TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.add</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.remove</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.get</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.getByCid</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.at</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.push</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.pop</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.unshift</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.shift</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.length</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.comparator</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.sort</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.pluck</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.where</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.url</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.parse</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.clone</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.fetch</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.reset</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Collection.create</TokenIdentifier>
+</RelatedTokens>
+</Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.extend</TokenIdentifier><Anchor>View-extend</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.initialize</TokenIdentifier><Anchor>View-constructor</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.el</TokenIdentifier><Anchor>View-el</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.$el</TokenIdentifier><Anchor>View-$el</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.setElement</TokenIdentifier><Anchor>View-setElement</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.attributes</TokenIdentifier><Anchor>View-attributes</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.$ (jQuery or Zepto)</TokenIdentifier><Anchor>View-dollar</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.render</TokenIdentifier><Anchor>View-render</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.remove</TokenIdentifier><Anchor>View-remove</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.destroy</TokenIdentifier><Anchor>View-destroy</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.make</TokenIdentifier><Anchor>View-make</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.delegateEvents</TokenIdentifier><Anchor>View-delegateEvents</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/View.undelegateEvents</TokenIdentifier><Anchor>View-undelegateEvents</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/View</TokenIdentifier><Anchor>View</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/View.extend</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.initialize</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.el</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.$el</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.setElement</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.attributes</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.$ (jQuery or Zepto)</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.render</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.remove</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.destroy</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.make</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.delegateEvents</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/View.undelegateEvents</TokenIdentifier>
+</RelatedTokens>
+</Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Router.extend</TokenIdentifier><Anchor>Router-extend</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Router.routes</TokenIdentifier><Anchor>Router-routes</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Router.initialize</TokenIdentifier><Anchor>Router-constructor</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Router.route</TokenIdentifier><Anchor>Router-route</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Router.navigate</TokenIdentifier><Anchor>Router-navigate</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/Router</TokenIdentifier><Anchor>Router</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/Router.extend</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Router.routes</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Router.initialize</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Router.route</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Router.navigate</TokenIdentifier>
+</RelatedTokens>
+</Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/History.start</TokenIdentifier><Anchor>History-start</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/History</TokenIdentifier><Anchor>History</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/History.start</TokenIdentifier>
+</RelatedTokens>
+</Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Sync.Backbone.ajax</TokenIdentifier><Anchor>Sync-ajax</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Sync.Backbone.emulateHTTP</TokenIdentifier><Anchor>Sync-emulateHTTP</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Sync.Backbone.emulateJSON</TokenIdentifier><Anchor>Sync-emulateJSON</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/Sync</TokenIdentifier><Anchor>Sync</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/Sync.Backbone.ajax</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Sync.Backbone.emulateHTTP</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Sync.Backbone.emulateJSON</TokenIdentifier>
+</RelatedTokens>
+</Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Utility.Backbone.noConflict</TokenIdentifier><Anchor>Utility-Backbone-noConflict</Anchor></Token>
+<Token><TokenIdentifier>//apple_ref/cpp/instm/Utility.Backbone.$</TokenIdentifier><Anchor>Utility-Backbone-$</Anchor></Token>
+<Token>
+<TokenIdentifier>//apple_ref/cpp/cl/Utility</TokenIdentifier><Anchor>Utility</Anchor>
+<RelatedTokens>
+<TokenIdentifier>//apple_ref/cpp/instm/Utility.Backbone.noConflict</TokenIdentifier>
+<TokenIdentifier>//apple_ref/cpp/instm/Utility.Backbone.$</TokenIdentifier>
+</RelatedTokens>
+</Token>
+</File>
+</Tokens>

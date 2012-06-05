@@ -2,8 +2,8 @@
 <DocSetNodes version="1.0">
     <TOC>
         <Node type="folder">
-            <Name>Backbone.js Documentation Set</Name>
-            <Path>html/index.html</Path>
+            <Name>Backbone.js Documentation</Name>
+            <Path>index.html</Path>
         </Node>
     </TOC>
 </DocSetNodes>

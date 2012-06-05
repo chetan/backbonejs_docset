@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tokens version="1.0">
-<File path="html/index.html">
+<File path="index.html">
 <Token><TokenIdentifier>//apple_ref/cpp/cat/01 Backbone.js</TokenIdentifier><Anchor>logo</Anchor></Token>
 <Token><TokenIdentifier>//apple_ref/cpp/cat/02 Introduction</TokenIdentifier><Anchor>introduction</Anchor></Token>
 <Token><TokenIdentifier>//apple_ref/cpp/cat/03 Upgrading</TokenIdentifier><Anchor>upgrading</Anchor></Token>

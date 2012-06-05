@@ -8,7 +8,7 @@
 # will output Tokens.xml in the current directory
 
 xml = File.open("Tokens.xml", "w")
-html = File.open("Documents/html/toc.html").read()
+html = File.open("Documents/toc.html").read()
 
 # grab categories
 cats = []
@@ -21,9 +21,9 @@ links = html.scan(%r{<a href="#(.*?)-(.*?)">(.*?)</a>})
 inc = %w{Events Model Collection View Router History Sync Utility}
 sections = {}
 links.each do |l|
-  next if not inc.include? l.first  
+  next if not inc.include? l.first
   sections[l.first] ||= []
-  sections[l.first] << l.slice(1,2)  
+  sections[l.first] << l.slice(1,2)
 end
 
 
@@ -31,7 +31,7 @@ end
 xml.puts <<-EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <Tokens version="1.0">
-<File path=\"html/index.html\">
+<File path="index.html">
 EOF
 
 # cats
@@ -40,7 +40,7 @@ cats.each_with_index do |c, i|
     xml.puts "<Token><TokenIdentifier>//apple_ref/cpp/cat/01 Backbone.js</TokenIdentifier><Anchor>logo</Anchor></Token>"
     next
   end
-  
+
   xml.puts "<Token><TokenIdentifier>//apple_ref/cpp/cat/#{(i+1).to_s.rjust(2, '0')} #{c.capitalize}</TokenIdentifier><Anchor>#{c}</Anchor></Token>"
 end
 
@@ -55,16 +55,16 @@ inc.each do |i|
     anchor = "#{i}-#{m.first}"
     xml.puts "<Token><TokenIdentifier>#{tok}</TokenIdentifier><Anchor>#{anchor}</Anchor></Token>"
   end
-  
+
   tok = "//apple_ref/cpp/cl/#{i}"
   xml.puts "<Token>"
   xml.puts "<TokenIdentifier>#{tok}</TokenIdentifier><Anchor>#{i}</Anchor>"
   xml.puts "<RelatedTokens>"
-  
+
   toks.each do |t|
     xml.puts "<TokenIdentifier>#{t}</TokenIdentifier>"
   end
-  
+
   xml.puts "</RelatedTokens>"
   xml.puts "</Token>"
 end

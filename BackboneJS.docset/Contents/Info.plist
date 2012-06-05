@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>backbone</string>
 	<key>CFBundleName</key>
-	<string>BackboneJS</string>
+	<string>Backbone.js</string>
 	<key>DocSetPlatformFamily</key>
 	<string>backbone</string>
 </dict>

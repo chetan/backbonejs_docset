@@ -1,3 +1,6 @@
+NOTE: This Backbone.js DocSet is now part of Dash!
+---
+
 # Backbone.js DocSet
 
 A Backbone.js DocSet for use with [Dash](http://kapeli.com/dash/)
